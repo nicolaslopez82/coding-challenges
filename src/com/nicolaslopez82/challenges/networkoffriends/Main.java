@@ -5,12 +5,12 @@ import java.util.*;
 /**
  * The goal for this challenger is to implement 2 methods, "addFriend" and getFriendsOfTiers.
  * Based in how is the data, I assumed for the first impression that it could be resolved through
- * graph, DFS or BFS for instance.
+ * graph, BFS for instance.
  *
  * However, in order to get a quick implementation and then go deeper into a better solution; I created
  * this solution for storing, implementing and showing the data.
  *
- * I consider that with a DFS it could be a better solution in terms of storing and performance.
+ * I consider that with a BFS (Tiers of friends) it could be a better solution in terms of storing and performance.
  *
  * Challenger:
  *
