@@ -1,4 +1,4 @@
-package com.nicolaslopez82.challenges.networkoffriends;
+package com.nicolaslopez82.challenges.networkoffriends.quicksolution;
 
 import java.util.*;
 
